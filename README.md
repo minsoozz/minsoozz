@@ -1,2 +1,2 @@
 
-junior developer 김민수 입니다
+Junior Java Developer 김민수 입니다.

@@ -1,2 +1,1 @@
-
-Junior Java Developer 김민수 입니다.
+개발 바보
